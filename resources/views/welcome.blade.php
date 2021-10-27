@@ -7,6 +7,6 @@
     <title>PRUEBA</title>
 </head>
 <body>
-PRUEBA
+bienvenidos
 </body>
 </html>
